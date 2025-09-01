@@ -3,9 +3,9 @@ layout: default
 title: Anti-BAD Challenge
 ---
 
-## About Anti-BAD Challenge
+## Anti-BAD Challenge
 
-The **Anti-BAD Challenge: Anti-Backdoor Defense for Post-Trained Large Language Models** is a competition designed to address the growing security concerns in the era of widespread LLM deployment.
+The **Anti-BAD: An Anti-Backdoor Challenge for Post-Trained Large Language Models** is a competition designed to address the growing security concerns in the era of widespread LLM deployment.
 
 ### Background
 

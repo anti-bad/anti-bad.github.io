@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Organizer
+title: Anti-BAD Challenge
 permalink: /organizer/
 ---
 

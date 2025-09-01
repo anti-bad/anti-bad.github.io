@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Timeline
+title: Anti-BAD Challenge
 permalink: /timeline/
 ---
 

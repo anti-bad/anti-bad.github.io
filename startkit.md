@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StartKit
+title: Anti-BAD Challenge
 permalink: /startkit/
 ---
 

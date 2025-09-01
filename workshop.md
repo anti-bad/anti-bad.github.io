@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Workshop
+title: Anti-BAD Challenge
 permalink: /workshop/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rules
+title: Anti-BAD Challenge
 permalink: /rules/
 ---
 
