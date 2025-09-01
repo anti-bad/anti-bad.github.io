@@ -1,0 +1,13 @@
+# Jekyll build files
+_site/
+.jekyll-cache/
+
+# Ruby/Bundler
+.bundle/
+vendor/
+
+# OS files
+.DS_Store
+
+# Editor files
+.vscode/
