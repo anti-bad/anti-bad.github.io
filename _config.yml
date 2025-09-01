@@ -1,6 +1,6 @@
-title: "Anti-BAD: Anti-Adversarial Post-Training Backdoor Defense Challenge for Large Language Models"
+title: "Anti-BAD Challenge: Anti-Backdoor Defense<br>for Post-Trained Large Language Models"
 email: antibad2025@gmail.com
-description: Anti-Adversarial Post-Training Backdoor Defense Challenge
+description: A competition for IEEE SaTML 2026
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

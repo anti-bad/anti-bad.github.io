@@ -18,4 +18,4 @@ The competition is designed to foster constrained post-training settings with mi
 
 ### Contact
 
-For questions and inquiries, please contact us at: [antibad2025@gmail.com](mailto:antibad2025@gmail.com)
+For questions and inquiries, please contact us at: [antibad-organisers@googlegroups.com](mailto:antibad-organisers@googlegroups.com)
