@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Anti-BAD Challenge
 ---
 
 ## About Anti-BAD Challenge

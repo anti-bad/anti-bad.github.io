@@ -16,10 +16,10 @@ permalink: /timeline/
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <!-- <tr>
             <td>Preparation of the starter kit, competition platform, and communication channels</td>
             <td>Aug 7 – Oct 20, 2025</td>
-        </tr>
+        </tr> -->
         <tr>
             <td>Competition registration opens</td>
             <td>Oct 21, 2025</td>
@@ -40,9 +40,9 @@ permalink: /timeline/
             <td>Final evaluation and ranking announcement</td>
             <td>Feb 8, 2026</td>
         </tr>
-        <tr>
+        <!-- <tr>
             <td>Preparation of the competition report and presentation for the SaTML 2026 Competition Track</td>
             <td>Feb 23, 2026 onward</td>
-        </tr>
+        </tr> -->
     </tbody>
 </table>
