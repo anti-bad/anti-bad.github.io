@@ -6,12 +6,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 navigation:
   Home: "/"
+  "Starter Kit": "/startkit/"
   Challenge: "/challenge/"
-  Rules: "/rules/"
-  Timeline: "/timeline/"
-  StartKit: "/startkit/"
-  Organizer: "/organizer/"
-  Workshop: "/workshop/"
+  Leaderboards: "/leaderboards/"
+  "Important Dates": "/timeline/"
+  "Rules & FAQs": "/rules/"
 
 
 # Build settings
