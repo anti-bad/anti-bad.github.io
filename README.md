@@ -1,25 +1,37 @@
 # Anti-BAD Challenge Website
 
+Official site for the Anti-BAD Challenge.
+
+🌐 **Live site:** https://anti-bad.github.io
+
+---
+
 ## Quick Start
 
-1. Install Jekyll:
+1. Install Ruby (≥ 3.0).  
+   - macOS: `brew install ruby`  
+   - Ubuntu/Debian: `sudo apt-get install ruby-full build-essential zlib1g-dev`  
+   - Windows: install via [RubyInstaller](https://rubyinstaller.org/)
+
+2. Install Jekyll and Bundler:
    ```bash
    gem install jekyll bundler
    ```
 
-2. Install dependencies:
+3. Install dependencies:
+
    ```bash
    bundle install
    ```
 
-3. Run locally:
+4. Run the site locally:
+
    ```bash
    bundle exec jekyll serve
    ```
 
-4. Open http://localhost:4000 in browser
+5. Open in your browser:
 
-### Build only (without serving):
-```bash
-bundle exec jekyll build
-```
+   ```
+   http://localhost:4000
+   ```
