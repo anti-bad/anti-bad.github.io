@@ -19,4 +19,3 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-spaceship
