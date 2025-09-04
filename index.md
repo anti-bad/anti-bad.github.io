@@ -5,36 +5,54 @@ title: Anti-BAD Challenge
 
 **Welcome to the Anti-BAD Challenge, an official IEEE SaTML 2026 competition.**
 
-This challenge aims to advance defenses against backdoor attacks in Large Language Models (LLMs), focusing on post-trained scenarios where a model's provenance is opaque. While publicly shared LLMs are increasingly adopted, their inaccessible training processes and uncertain data integrity pose significant security risks, prompting the need for robust solutions to ensure safe and trustworthy deployment.
+This competition addresses growing concerns around backdoor attacks in Large Language Models (LLMs), especially when models are shared in post-trained form without transparency about their training process. Anti-BAD invites participants to explore effective defenses that restore model integrity while preserving utility—under practical constraints such as limited data access or trigger knowledge.
 
-The competition invites participants to develop lightweight, effective methods that safeguard model behavior without access to training data or prior knowledge of the backdoor. To evaluate generalizability, Anti-BAD features three tracks reflecting core LLM applications: **generation, classification, and multilingual tasks.** These provide a benchmark grounded in real-world use.
-
-## News
-
-Any updates will be announced gradually.
+---
 
 ## Overview
 
-The **Anti-BAD: An Anti-Backdoor Challenge for Post-Trained Large Language Models** is a competition designed to address the growing security concerns in the era of widespread LLM deployment.
+The Anti-BAD Challenge provides a benchmark for evaluating post-training backdoor defenses across three representative tasks:
+- **Generation Track** – instruction-following models  
+- **Classification Track** – standard classification tasks  
+- **Multilingual Track** – cross-lingual generalization and robustness
 
-As obtaining and deploying language models from public hubs like HuggingFace becomes common practice, the risk of backdoor attacks increases. Malicious attackers can inject backdoors into models through fine-tuning on poisoned datasets or model editing, then publish these compromised models. The lack of transparency and model verification in current practices raises significant security concerns.
+Participants are encouraged to submit defenses that:
+- **Remove or mitigate backdoor behavior** in post-trained LLMs  
+- **Preserve model utility** on clean inputs  
+- **Operate under deployment constraints**, without access to training data or large-scale retraining
 
-This challenge focuses on practical constraints faced by end-users in realistic deployment scenarios. Unlike existing defenses that require large-scale data and compute resources, Anti-BAD encourages the development of lightweight, generalizable strategies for securing LLMs under constrained post-training settings with minimal data and training assumptions.
+We welcome:
+- Traditional techniques adapted to the post-training setting  
+- Novel defense approaches  
+- Solutions that balance robustness, efficiency, and generalizability
 
-The competition is designed to foster constrained post-training settings with minimal data and training assumptions. It encourages defenses—whether adapting traditional methods or introducing novel ones—to evaluate their effectiveness under a fair benchmark. To broaden its impact, the challenge spans widely used LLM scenarios, including generation, classification, and multilingual tasks.
+All solutions will be evaluated under a fair and consistent benchmark that reflects real-world deployment scenarios.
+
+---
 
 ## Important Dates
 
-- **Competition registration opens:** Oct 21, 2025
+- **Competition registration opens:** Oct 21, 2025  
 - **Development phase starts:** Nov 7, 2025  
-- **Test phase starts:** Feb 1, 2026
-- **Test phase ends:** Feb 7, 2026
+- **Test phase starts:** Feb 1, 2026  
+- **Test phase ends:** Feb 7, 2026  
 - **Final evaluation and ranking announcement:** Feb 8, 2026
+
+---
+
+## News
+
+Updates will be posted here as the competition progresses.
+
+---
 
 ## Organizers
 
 Information about organizers will be updated soon.
 
+---
+
 ## Contact
 
-For questions and inquiries, please contact us at: [antibad-organisers@googlegroups.com](mailto:antibad-organisers@googlegroups.com)
+For questions or inquiries, please email us at:  
+[antibad-organisers@googlegroups.com](mailto:antibad-organisers@googlegroups.com)
