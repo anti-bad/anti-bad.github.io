@@ -9,6 +9,12 @@ This competition addresses growing concerns around backdoor attacks in Large Lan
 
 ---
 
+## News
+
+Updates will be posted here as the competition progresses.
+
+---
+
 ## Overview
 
 The Anti-BAD Challenge provides a benchmark for evaluating post-training backdoor defenses across three representative tasks:
@@ -37,12 +43,6 @@ All solutions will be evaluated under a fair and consistent benchmark that refle
 - **Test phase starts:** Feb 1, 2026  
 - **Test phase ends:** Feb 7, 2026  
 - **Final evaluation and ranking announcement:** Feb 8, 2026
-
----
-
-## News
-
-Updates will be posted here as the competition progresses.
 
 ---
 
