@@ -68,8 +68,10 @@ body {
     text-decoration: none;
 }
 
-.nav-brand i {
-    font-size: 1.8rem;
+.nav-logo {
+    height: 4.0rem;
+    width: auto;
+    object-fit: contain;
 }
 
 .brand-text {
