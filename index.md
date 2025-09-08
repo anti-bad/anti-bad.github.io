@@ -55,4 +55,4 @@ Information about organizers will be updated soon.
 ## Contact
 
 For questions or inquiries, please email us at:  
-[antibad-organisers@googlegroups.com](mailto:antibad-organisers@googlegroups.com)
+[antibad-competition-satml-2026@googlegroups.com](mailto:antibad-competition-satml-2026@googlegroups.com)
