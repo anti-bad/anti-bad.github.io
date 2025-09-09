@@ -11,7 +11,7 @@ This competition addresses growing concerns around backdoor attacks in Large Lan
 
 ## News
 
-Updates will be posted here as the competition progresses.
+• **August 31, 2025**: Anti-BAD Challenge accepted and initiated for IEEE SaTML 2026.
 
 ---
 
