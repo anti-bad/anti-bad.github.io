@@ -288,6 +288,85 @@ body {
     color: #1f2937;
 }
 
+/* ===== ORGANIZER GRID ===== */
+.organizer-section {
+    margin: 3rem auto 4rem;
+    padding: 0 1rem;
+    max-width: 1200px;
+}
+
+.organizer-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: 2.75rem 2rem;
+    justify-items: center;
+}
+
+.organizer-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.85rem;
+    text-align: center;
+    padding: 0;
+    width: 100%;
+    max-width: 220px;
+}
+
+.organizer-photo {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 14px 28px rgba(15, 23, 42, 0.12);
+}
+
+/* Hover lift effect for portraits (disabled by default)
+.organizer-card:hover .organizer-photo,
+.organizer-card:focus-within .organizer-photo {
+    transform: translateY(-4px);
+    box-shadow: 0 18px 36px rgba(30, 64, 175, 0.18);
+}
+*/
+
+.organizer-name {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #0f172a;
+    letter-spacing: -0.01em;
+    display: inline-block;
+}
+
+.organizer-card a.organizer-name {
+    color: #1d4ed8;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.organizer-card a.organizer-name:hover,
+.organizer-card a.organizer-name:focus {
+    color: #2563eb;
+}
+
+@media (max-width: 640px) {
+    .organizer-section {
+        margin: 2.5rem 0 3rem;
+    }
+
+    .organizer-grid {
+        gap: 2.2rem 1.5rem;
+    }
+
+    .organizer-card {
+        max-width: 200px;
+    }
+
+    .organizer-photo {
+        width: 120px;
+        height: 120px;
+    }
+}
+
 /* ===== ANIMATIONS ===== */
 @keyframes fadeInUp {
     from {
