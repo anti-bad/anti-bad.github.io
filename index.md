@@ -98,6 +98,12 @@ For full task descriptions, evaluation details, and submission guidelines, visit
 
 ## Contact
 
-For questions or inquiries, please reach us via:  
-- **Email:** [antibad-competition-satml-2026@googlegroups.com](mailto:antibad-competition-satml-2026@googlegroups.com)  
+For questions or inquiries, please reach us via:
+- **Email:** [antibad-competition-satml-2026@googlegroups.com](mailto:antibad-competition-satml-2026@googlegroups.com)
 - **Discord:** [https://discord.gg/x8GqKDF2Rb](https://discord.gg/x8GqKDF2Rb)
+
+---
+
+## Acknowledgments
+
+We gratefully acknowledge **Google Cloud** for their support in providing computing infrastructure for this competition.
