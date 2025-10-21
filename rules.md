@@ -1,40 +1,37 @@
 ---
 layout: default
-title: Anti-BAD Challenge
+title: Rules and Terms
 permalink: /rules/
 ---
 
-## Competition Rules
+## Terms
 
-- **Registration Eligibility:** The competition is open to all. Participants may form teams of any size, but each individual may join only one team. Team members must self-certify that they are not part of multiple submissions; violations will result in the disqualification of all involved teams.
+The **Anti-Backdoor (Anti-BAD) Challenge** is part of the IEEE SaTML 2026 competition program and follows the ethical and professional standards of the IEEE community.
 
-- **Permitted methods and resource limits:** During the development phase, participants are free to use any approach and computational resource. In the test phase, however, solutions are expected to emphasize parameter-space analysis and must complete evaluation within 24 hours on a single Nvidia A100 GPU. This constraint promotes practical, lightweight methods.
+This competition adheres to the [**IEEE Code of Conduct**](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/ieee_code_of_conduct.pdf) and the [**IEEE Privacy Policy**](https://privacy.ieee.org/policies).
 
-- **Submission limits:** Each team may submit up to three entries per day per track during the development phase. In the test phase, each team is allowed a maximum of five submissions per track for final evaluation.
+All submissions must be **original, fair, and reproducible**. The organisers may verify results when necessary to ensure the integrity of the leaderboard.
 
-- **Finalist obligations:** The top three teams will be required to submit their code and a detailed report describing their methodology. Finalists will also be invited to present their solutions at the official competition session.
+Participants retain full ownership of their methods and code. Any materials shared with the organisers during verification will remain **private** and will be used only for evaluation purposes.
+
+---
 
 ## Frequently Asked Questions
 
-### General Questions
+**Can I participate individually or as part of a team?**  
+Yes. You may compete either as an individual or within a team, but not both. Each participant can belong to only one team for the duration of the competition.
 
-**Q: What is the Anti-BAD Challenge?**  
-A: The Anti-BAD Challenge is a competition focused on developing lightweight, practical methods for detecting backdoor attacks in post-trained large language models under realistic deployment constraints.
+**Can I choose only some tasks to participate in?**  
+Yes. You may submit to any subset of tasks. Tasks without submissions will simply be scored as zero.
 
-**Q: When does the competition start?**  
-A: Registration opens October 21, 2025, with the development phase starting November 7, 2025.
+**Do I need to submit my model?**  
+No. In the test phase, invited teams will submit both results and code. The organisers will verify that the code can reproduce the submitted results within the allowed resources (one A100 GPU, 24 hours).
 
-**Q: Who can participate?**  
-A: The competition is open to all. Participants may form teams of any size, but each individual may only join one team.
+**Will my submitted code be shared publicly?**  
+No. All submitted code will remain private and will be used only for verification.
 
-### Technical Questions
+**Where can I ask questions or get updates?**  
+You can reach the organisers through:
 
-**Q: What are the resource constraints?**  
-A: During development, any resources are allowed. In the test phase, solutions must complete evaluation within 24 hours on a single Nvidia A100 GPU.
-
-**Q: How many submissions are allowed?**  
-A: Up to 3 submissions per day per track during development phase, and maximum 5 submissions per track in the test phase.
-
-### Contact
-
-For additional questions, please contact us at: [antibad-organisers@googlegroups.com](mailto:antibad-organisers@googlegroups.com)
+* **Discord:** [https://discord.gg/x8GqKDF2Rb](https://discord.gg/x8GqKDF2Rb)  
+* **Email:** [antibad-competition-satml-2026@googlegroups.com](mailto:antibad-competition-satml-2026@googlegroups.com)

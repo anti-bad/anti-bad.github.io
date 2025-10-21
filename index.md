@@ -3,46 +3,47 @@ layout: default
 title: Anti-BAD Challenge
 ---
 
-**Welcome to the Anti-BAD Challenge, an official IEEE SaTML 2026 competition.**
+Welcome to the **Anti-Backdoor (Anti-BAD) Challenge**, an IEEE SaTML 2026 competition dedicated to advancing the trustworthiness of **post-trained large language models (LLMs)**.
 
-This competition addresses growing concerns around backdoor attacks in Large Language Models (LLMs), especially when models are shared in post-trained form without transparency about their training process. Anti-BAD invites participants to explore effective defenses that restore model integrity while preserving utility—under practical constraints such as limited data access or trigger knowledge.
+LLMs have become the rising stars of our time, powering a wide range of applications. As fine-tuning and deploying large models from scratch become increasingly costly, many practitioners now rely on post-trained models shared by others. This convenience, however, raises a critical question: **can we trust these models to behave safely?**
+
+One of the most serious risks is the **backdoor attack**, where a model behaves normally on clean inputs but produces malicious outputs when a hidden trigger appears. The Anti-BAD Challenge invites participants to design **effective and practical defense methods** that can mitigate such hidden behaviors **without access to the training history or backdoor knowledge**, while maintaining strong task performance.
 
 ---
 
 ## News
 
-• **August 31, 2025**: Anti-BAD Challenge accepted and initiated for IEEE SaTML 2026.
+- **October 21, 2025**: Competition opens for registration on [**Codabench**](#) (link to be added).
+- **August 31, 2025**: Anti-BAD Challenge accepted as part of IEEE SaTML 2026.  
+- **Join our [Discord community](https://discord.gg/x8GqKDF2Rb)** for announcements, discussions, and Q&A.
 
 ---
 
 ## Overview
 
-The Anti-BAD Challenge provides a benchmark for evaluating post-training backdoor defenses across three representative tasks:
-- **Generation Track** – instruction-following models  
-- **Classification Track** – standard classification tasks  
-- **Multilingual Track** – cross-lingual generalization and robustness
+The Anti-BAD Challenge simulates a realistic setting where users download post-trained models from public sources without knowing their training history. The goal is to produce a **deployable model** that preserves utility while suppressing malicious backdoor behavior during inference.
 
-Participants are encouraged to submit defenses that:
-- **Remove or mitigate backdoor behavior** in post-trained LLMs  
-- **Preserve model utility** on clean inputs  
-- **Operate under deployment constraints**, without access to training data or large-scale retraining
+The challenge includes **three tracks**, each representing a distinct application scenario:
 
-We welcome:
-- Traditional techniques adapted to the post-training setting  
-- Novel defense approaches  
-- Solutions that balance robustness, efficiency, and generalizability
+* **Generation Track**
+* **Classification Track**
+* **Multilingual Track**
 
-All solutions will be evaluated under a fair and consistent benchmark that reflects real-world deployment scenarios.
+Each track contains **two tasks**, for a total of six. Every task provides multiple post-trained models that reflect real-world model-sharing practices. Participants may defend individual models or develop approaches that integrate information from several models to improve robustness.  
+The models are based on popular architectures such as **Llama** and **Qwen**.
+
+Detailed setup instructions, data formats, and example scripts are provided in the [**Starter Kit**](https://github.com/anti-bad/anti-bad-challenge).  
+For full task descriptions, evaluation details, and submission guidelines, visit the [**Competition Platform**](link to be added).
 
 ---
 
 ## Important Dates
 
-- **Competition registration opens:** Oct 21, 2025  
-- **Development phase starts:** Nov 7, 2025  
-- **Test phase starts:** Feb 1, 2026  
-- **Test phase ends:** Feb 7, 2026  
-- **Final evaluation and ranking announcement:** Feb 8, 2026
+- **Competition registration opens:** October 21, 2025  
+- **Development phase starts:** November 7, 2025  
+- **Test phase starts:** February 1, 2026  
+- **Test phase ends:** February 7, 2026  
+- **Final evaluation and ranking announcement:** February 8, 2026  
 
 ---
 
@@ -97,4 +98,6 @@ All solutions will be evaluated under a fair and consistent benchmark that refle
 
 ## Contact
 
-For questions or inquiries, please email us at:  [antibad-competition-satml-2026@googlegroups.com](mailto:antibad-competition-satml-2026@googlegroups.com)
+For questions or inquiries, please reach us via:  
+- **Email:** [antibad-competition-satml-2026@googlegroups.com](mailto:antibad-competition-satml-2026@googlegroups.com)  
+- **Discord:** [https://discord.gg/x8GqKDF2Rb](https://discord.gg/x8GqKDF2Rb)
