@@ -6,7 +6,7 @@ permalink: /startkit/
 
 ## Starter Kit
 
-The **Anti-Backdoor (Anti-BAD) Challenge Starter Kit** provides everything you need to participate — including datasets, backdoored models, evaluation scripts, and submission templates.  
+The **Anti-Backdoor (Anti-BAD) Challenge Starter Kit** provides everything you need to participate — including datasets, backdoored models, scripts, and submission templates.  
 It is designed to help participants reproduce the competition setup and start building their defences quickly.
 
 ---
@@ -69,8 +69,8 @@ Implementation and usage examples are available in the repository.
 
 If you reference this method, please cite:
 
-> **Ansh Arora, Xuanli He, Maximilian Mozes, Srinibas Swain, Mark Dras, and Qiongkai Xu.**  
-> 2024. *Here’s a Free Lunch: Sanitizing Backdoored Models with Model Merge.*  
+> **Ansh Arora, Xuanli He, Maximilian Mozes, Srinibas Swain, Mark Dras, and Qiongkai Xu.**
+> 2024. *[Here's a Free Lunch: Sanitizing Backdoored Models with Model Merge](https://aclanthology.org/2024.findings-acl.894/).*
 > *Findings of the Association for Computational Linguistics: ACL 2024.*
 
 ---
