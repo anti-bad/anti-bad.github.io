@@ -64,7 +64,7 @@ All submitted code will remain private and used only for verification purposes.
 
 ## Baseline Method
 
-The Starter Kit includes a baseline defence using **Weight Averaging (WAG)** across all tracks.  
+The Starter Kit includes a baseline defense using **Weight Averaging (WAG)** across all tracks.  
 Implementation and usage examples are available in the repository.
 
 If you reference this method, please cite:

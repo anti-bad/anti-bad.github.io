@@ -10,28 +10,47 @@ The **Anti-Backdoor (Anti-BAD) Challenge** is part of the IEEE SaTML 2026 compet
 
 This competition adheres to the [**IEEE Code of Conduct**](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/ieee_code_of_conduct.pdf) and the [**IEEE Privacy Policy**](https://privacy.ieee.org/policies).
 
-All submissions must be **original, fair, and reproducible**. The organisers may verify results when necessary to ensure the integrity of the leaderboard.
+All submissions must be **original, fair, and reproducible**. The organizers may verify results when necessary to ensure the integrity of the leaderboard.
 
-Participants retain full ownership of their methods and code. Any materials shared with the organisers during verification will remain **private** and will be used only for evaluation purposes.
+Participants retain full ownership of their methods and code. Any materials shared with the organizers during verification will remain **private** and will be used only for evaluation purposes.
 
 ---
 
 ## Frequently Asked Questions
 
-**Can I participate individually or as part of a team?**  
-Yes. You may compete either as an individual or within a team, but not both. Each participant can belong to only one team for the duration of the competition.
+### Registration and Participation
+
+**How can I join the competition?**
+The competition is hosted on Codabench. To participate, register on the platform and join our competition. For detailed instructions, please refer to the official Codabench wiki: [Participating in a Competition](https://github.com/codalab/codabench/wiki/User_Participating-in-a-Competition).
+
+**Can I participate individually or as part of a team?**
+Yes. You may compete either as an individual or as part of a team, but not both. Each participant can only belong to one team throughout the competition. There is no strict limit on team size.
+
+**How do I form a team on Codabench?**
+Teams are managed through Codabench organizations. To create a team:
+1. Select "Create an Organization" from your account dropdown menu.
+2. Invite team members using the "Edit Organization" button.
+3. Invited members must accept the email invitation to join.
+4. As the team leader (owner), adjust member permissions from "Member" to "Participant" to enable team submissions.
+
+Note: Organizations are platform-wide and can be used across all Codabench competitions.
+
+### Submissions
+
+**How do I submit as a team?**
+On the "My Submissions" page, you can choose to submit either as yourself or as your organization. When submitting as an organization, the organization name will appear on the leaderboard instead of your individual username. While all organization members can submit, only one submission per organization will be displayed on the leaderboard—newer submissions from any member will replace the previous entry. All submissions are private and visible only to you and the competition administrators.
 
 **Can I choose only some tasks to participate in?**  
 Yes. You may submit to any subset of tasks. Tasks without submissions will simply be scored as zero.
 
-**Do I need to submit my model?**  
-No. In the test phase, invited teams will submit both results and code. The organisers will verify that the code can reproduce the submitted results within the allowed resources (one A100 GPU, 24 hours).
+**Do I need to submit my model?**
+No. In the development phase, you only need to submit prediction result files to receive scores. In the test phase, invited teams will submit both results and code. The organizers will verify that the code can reproduce the submitted results within the allowed resources (one A100 GPU, 24 hours).
 
-**Will my submitted code be shared publicly?**  
+**Will my submitted code be shared publicly?**
 No. All submitted code will remain private and will be used only for verification.
 
-**Where can I ask questions or get updates?**  
-You can reach the organisers through:
+**Where can I ask questions or get updates?**
+You can reach the organizers through:
 
 * **Discord:** [https://discord.gg/x8GqKDF2Rb](https://discord.gg/x8GqKDF2Rb)  
 * **Email:** [antibad-competition-satml-2026@googlegroups.com](mailto:antibad-competition-satml-2026@googlegroups.com)
