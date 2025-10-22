@@ -44,7 +44,7 @@ On the "My Submissions" page:
 3. Select one submission from your history to add to the leaderboard.
 4. The leaderboard will display your individual username (if submitted as yourself) or the organization name (if submitted as your organization).
 
-Note: While all organization members can submit and select entries, only one submission per organization will be displayed on the leaderboard. When any team member selects a new submission as the organization, it will replace the previous organization entry. All submissions are private and visible only to you and the competition administrators—even your teammates cannot see your submission history.
+Note: Each organization member can independently select a submission to display on the leaderboard as the organization. If multiple team members select submissions as the organization, multiple entries with the same organization name will appear on the leaderboard. All submissions are private and visible only to you and the competition administrators—even your teammates cannot see your submission history.
 
 **How long will it take to receive my score after submission?**
 Submissions are evaluated on the Codabench server. The total time includes both queue time and evaluation time, which is not fixed but typically takes 10-20 minutes based on our experiments. After evaluation completes, detailed score breakdowns for each task will be accessible in the submission entry log, enabling you to analyze and adjust your approach.
