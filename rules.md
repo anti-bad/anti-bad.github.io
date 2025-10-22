@@ -38,7 +38,13 @@ Note: Organizations are platform-wide and can be used across all Codabench compe
 ### Submissions
 
 **How do I submit as a team?**
-On the "My Submissions" page, you can choose to submit either as yourself or as your organization. When submitting as an organization, the organization name will appear on the leaderboard instead of your individual username. While all organization members can submit, only one submission per organization will be displayed on the leaderboard—newer submissions from any member will replace the previous entry. All submissions are private and visible only to you and the competition administrators.
+On the "My Submissions" page:
+1. Submit your solution either as yourself or as your organization.
+2. All your submissions will appear together in your submission history, regardless of submission type.
+3. Select one submission from your history to add to the leaderboard.
+4. The leaderboard will display your individual username (if submitted as yourself) or the organization name (if submitted as your organization).
+
+Note: While all organization members can submit and select entries, only one submission per organization will be displayed on the leaderboard. When any team member selects a new submission as the organization, it will replace the previous organization entry. All submissions are private and visible only to you and the competition administrators—even your teammates cannot see your submission history.
 
 **Can I choose only some tasks to participate in?**  
 Yes. You may submit to any subset of tasks. Tasks without submissions will simply be scored as zero.
