@@ -24,7 +24,7 @@ Participants retain full ownership of their methods and code. Any materials shar
 The competition is hosted on Codabench. To participate, register on the platform and join our competition. For detailed instructions, please refer to the official Codabench wiki: [Participating in a Competition](https://github.com/codalab/codabench/wiki/User_Participating-in-a-Competition).
 
 **Can I participate individually or as part of a team?**
-Yes. You may compete either as an individual or as part of a team, but not both. Each participant can only belong to one team throughout the competition. There is no strict limit on team size.
+Yes. You may compete either as an individual or as part of a team. Each participant can only belong to one team throughout the competition. There is no strict limit on team size.
 
 **How do I form a team on Codabench?**
 Teams are managed through Codabench organizations. To create a team:
