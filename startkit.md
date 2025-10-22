@@ -69,9 +69,7 @@ Implementation and usage examples are available in the repository.
 
 If you reference this method, please cite:
 
-> **Ansh Arora, Xuanli He, Maximilian Mozes, Srinibas Swain, Mark Dras, and Qiongkai Xu.**
-> 2024. *[Here's a Free Lunch: Sanitizing Backdoored Models with Model Merge](https://aclanthology.org/2024.findings-acl.894/).*
-> *Findings of the Association for Computational Linguistics: ACL 2024.*
+> **Ansh Arora, Xuanli He, Maximilian Mozes, Srinibas Swain, Mark Dras, and Qiongkai Xu.** (2024). *[Here's a Free Lunch: Sanitizing Backdoored Models with Model Merge](https://aclanthology.org/2024.findings-acl.894/).* *Findings of the Association for Computational Linguistics: ACL 2024.*
 
 ---
 
