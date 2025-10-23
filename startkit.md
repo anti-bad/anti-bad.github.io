@@ -24,9 +24,9 @@ The repository contains detailed setup instructions, environment configuration, 
 
 * **Datasets** — input-only test sets for each task (no ground truth).  
 * **Models** — three backdoored models per task, based on popular architectures such as *Llama* and *Qwen*.  
-* **Evaluation Scripts** — to verify outputs and run local scoring.  
+* **Code Scripts** — to make predictions on the test inputs and submit to the CodaBench to get scores.
 * **Submission Templates** — JSON and CSV examples for all tracks.  
-* **Baseline Implementation** — a reference defence based on Weight Averaging (WAG).
+* **Baseline Implementation** — a reference defense based on Weight Averaging (WAG).
 
 ---
 
