@@ -57,7 +57,7 @@ Your goal is to defend the models, generate predictions, and submit your results
 * **Test phase:** up to **2 submissions per day**, **14 total**.  
 
 During the **test phase**, top-performing teams must submit both prediction results and executable code for reproducibility verification.  
-The code must reproduce the submitted results within **24 hours on a single NVIDIA A100 GPU**.  
+The code must reproduce the submitted results within **24 hours on a single NVIDIA A100 80GB GPU**.  
 All submitted code will remain private and used only for verification purposes.
 
 ---
