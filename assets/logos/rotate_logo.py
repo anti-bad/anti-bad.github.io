@@ -5,7 +5,7 @@ import os
 
 def rotate_image():
     # Input and output paths
-    input_path = "./pill-horizontal.png"
+    input_path = "./pill-horizontal-filled.png"
     output_path = "./pill-horizontal-rotated.png"
     
     # Check if input file exists
