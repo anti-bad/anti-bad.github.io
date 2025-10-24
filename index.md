@@ -106,4 +106,4 @@ For questions or inquiries, please reach us via:
 
 ## Acknowledgments
 
-We gratefully acknowledge **Google Cloud** for their support in providing computing infrastructure for this competition.
+We gratefully acknowledge **Google Cloud Research Credits Program** for their support in providing computing infrastructure for this competition.
