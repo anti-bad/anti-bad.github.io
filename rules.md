@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Terms and FAQs
+title: Terms & FAQs
 permalink: /rules/
 ---
 

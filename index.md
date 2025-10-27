@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anti-BAD Challenge
+title: Home
 ---
 
 Welcome to the **Anti-Backdoor (Anti-BAD) Challenge**, an IEEE SaTML 2026 competition dedicated to advancing the trustworthiness of **post-trained large language models (LLMs)**.

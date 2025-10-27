@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Challenge Overview
+title: Challenge
 permalink: /challenge/
 ---
 

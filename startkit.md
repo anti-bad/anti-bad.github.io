@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Starter Kit
+title: Getting Started
 permalink: /startkit/
 ---
 
