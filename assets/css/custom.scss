@@ -274,18 +274,24 @@ body {
 }
 
 .main-content a {
-    color: #1e40af;
+    color: #1e40af !important;
     text-decoration: none;
     font-weight: 500;
 }
 
 .main-content a:hover {
+    color: #1e40af !important;
     text-decoration: underline;
 }
 
 .main-content strong {
     font-weight: 600;
     color: #1f2937;
+}
+
+.main-content a strong,
+.main-content strong a {
+    color: #1e40af !important;
 }
 
 /* ===== ORGANIZER GRID ===== */
