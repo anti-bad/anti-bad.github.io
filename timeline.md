@@ -52,7 +52,7 @@ The development phase is open to **all registered participants**. During this pe
 
 * Access the development data and backdoored models for each task from the [**Getting Started**](/startkit/) page.
 * Develop and refine your defense strategies.
-* Submit predictions to receive [**leaderboard**](/leaderboards/) feedback.
+* Submit predictions to receive feedback.
 * Participate in any number of tasks.
 
 This phase is designed for experimentation, iterative improvement, and preparation for the final evaluation. For submission details, see the [**Terms & FAQs**](/rules/) page.
