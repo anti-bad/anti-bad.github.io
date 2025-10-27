@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Anti-BAD Challenge
 ---
 
 Welcome to the **Anti-Backdoor (Anti-BAD) Challenge**, an IEEE SaTML 2026 competition dedicated to advancing the trustworthiness of **post-trained large language models (LLMs)**.
@@ -13,7 +13,7 @@ One of the most serious risks is the **backdoor attack**, where a model behaves 
 
 ## News
 
-- **October 21, 2025**: Competition opens for registration on [**Codabench**](#) (link to be added).
+- **October 21, 2025**: Competition opens for registration on [**Codabench**](https://www.codabench.org/competitions/11188/).
 - **August 31, 2025**: Anti-BAD Challenge accepted as part of IEEE SaTML 2026.  
 - **Join our [Discord community](https://discord.gg/x8GqKDF2Rb)** for announcements, discussions, and Q&A.
 
@@ -33,7 +33,7 @@ Each track contains **two tasks**, for a total of six. Every task provides multi
 The models are based on popular architectures such as **Llama** and **Qwen**.
 
 Detailed setup instructions, data formats, and example scripts are provided in the [**Starter Kit**](https://github.com/anti-bad/anti-bad-challenge).  
-For full task descriptions, evaluation details, and submission guidelines, visit the [**Competition Platform**](link to be added).
+For full task descriptions, evaluation details, and submission guidelines, visit the [**Competition Platform**](https://www.codabench.org/competitions/11188/).
 
 ---
 

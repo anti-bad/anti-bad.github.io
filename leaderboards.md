@@ -8,7 +8,7 @@ permalink: /leaderboards/
 
 The **Anti-Backdoor (Anti-BAD) Challenge** leaderboards display participants’ performance across all tracks and tasks throughout the competition.
 
-You can view real-time rankings and detailed scores directly on [**Codabench**](#) (link to be added).
+You can view real-time rankings and detailed scores directly on [**Codabench**](https://www.codabench.org/competitions/11188/).
 
 ---
 
