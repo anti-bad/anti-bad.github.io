@@ -50,12 +50,12 @@ permalink: /timeline/
 
 The development phase is open to **all registered participants**. During this period, you can:
 
-* Access the development data and backdoored models for each task.
+* Access the development data and backdoored models for each task from the [**Getting Started**](/startkit/) page.
 * Develop and refine your defense strategies.
-* Submit predictions to receive leaderboard feedback.
+* Submit predictions to receive [**leaderboard**](/leaderboards/) feedback.
 * Participate in any number of tasks.
 
-This phase is designed for experimentation, iterative improvement, and preparation for the final evaluation.
+This phase is designed for experimentation, iterative improvement, and preparation for the final evaluation. For submission details, see the [**Terms & FAQs**](/rules/) page.
 
 ---
 

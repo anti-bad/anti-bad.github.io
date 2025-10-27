@@ -32,8 +32,8 @@ The challenge includes **three tracks**, each representing a distinct applicatio
 Each track contains **two tasks**, for a total of six. Every task provides multiple post-trained models that reflect real-world model-sharing practices. Participants may defend individual models or develop approaches that integrate information from several models to improve robustness.  
 The models are based on popular architectures such as **Llama** and **Qwen**.
 
-Detailed setup instructions, data formats, and example scripts are provided in the [**Starter Kit**](https://github.com/anti-bad/anti-bad-challenge).  
-For full task descriptions, evaluation details, and submission guidelines, visit the [**Competition Platform**](https://www.codabench.org/competitions/11188/).
+Detailed setup instructions and starter kit information are provided in the [**Getting Started**](/startkit/) page.
+For full task descriptions, evaluation details, and submission guidelines, visit the [**Challenge**](/challenge/) page.
 
 ---
 

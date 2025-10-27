@@ -24,7 +24,7 @@ The repository contains detailed setup instructions, environment configuration, 
 
 * **Datasets** — input-only test sets for each task (no ground truth).  
 * **Models** — three backdoored models per task, based on popular architectures such as *Llama* and *Qwen*.  
-* **Code Scripts** — to make predictions on the test inputs and submit to the CodaBench to get scores.
+* **Code Scripts** — to make predictions on the test inputs and submit to Codabench to get scores.
 * **Submission Templates** — JSON and CSV examples for all tracks.  
 * **Baseline Implementation** — a reference defense based on Weight Averaging (WAG).
 
@@ -41,15 +41,15 @@ The challenge features **three tracks** with **six tasks** in total:
 | Multilingual   | 2     | 3 backdoored models each |
 
 For each task, participants receive several backdoored models of the same architecture and a test dataset (inputs only).  
-Your goal is to defend the models, generate predictions, and submit your results for evaluation on **Codabench**.
+Your goal is to defend the models, generate predictions, and submit your results for evaluation on [**Codabench**](https://www.codabench.org/competitions/11188/).
 
 ---
 
 ## Submission Overview
 
-1. Generate predictions for selected tasks.  
-2. Package the prediction files into a single ZIP archive.  
-3. Upload the ZIP file through the **My Submissions** tab on **Codabench**.
+1. Generate predictions for selected tasks.
+2. Package the prediction files into a single ZIP archive.
+3. Upload the ZIP file through the **My Submissions** tab on [**Codabench**](https://www.codabench.org/competitions/11188/).
 
 **Submission limits:**
 
@@ -73,4 +73,4 @@ If you reference this method, please cite:
 
 ---
 
-For more information on submission formats and evaluation rules, see the [**Competition Platform**](#) or visit the [**Starter Kit on GitHub**](https://github.com/anti-bad/anti-bad-challenge).
+For more information on submission formats and evaluation rules, see the [**Challenge**](/challenge/) page or the [**Terms & FAQs**](/rules/) page. Visit the [**Starter Kit on GitHub**](https://github.com/anti-bad/anti-bad-challenge) for code and detailed setup instructions.

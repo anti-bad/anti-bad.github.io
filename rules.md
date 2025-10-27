@@ -21,7 +21,7 @@ Participants retain full ownership of their methods and code. Any materials shar
 ### Registration and Participation
 
 **How can I join the competition?**
-The competition is hosted on [Codabench](https://www.codabench.org/competitions/11188/). To participate, register on the platform and join our competition. For detailed instructions, please refer to the official Codabench wiki: [Participating in a Competition](https://github.com/codalab/codabench/wiki/User_Participating-in-a-Competition).
+The competition is hosted on [**Codabench**](https://www.codabench.org/competitions/11188/). To participate, register on the platform and join our competition. For detailed instructions, please refer to the official Codabench wiki: [Participating in a Competition](https://github.com/codalab/codabench/wiki/User_Participating-in-a-Competition). See the [**Getting Started**](/startkit/) page for setup instructions.
 
 **Can I participate individually or as part of a team?**
 Yes. You may compete either as an individual or as part of a team. Each participant can only belong to one team throughout the competition. There is no strict limit on team size.
@@ -50,7 +50,7 @@ Note: Each organization member can independently select a submission to display 
 Submissions are evaluated on the Codabench server. The total time includes both queue time and evaluation time, which is not fixed but typically takes 10-20 minutes based on our experiments. After evaluation completes, detailed score breakdowns for each task will be accessible in the submission entry log, enabling you to analyze and adjust your approach.
 
 **Can I choose only some tasks to participate in?**
-Yes. You may submit to any subset of tasks. Tasks without submissions will simply be scored as zero.
+Yes. You may submit to any subset of tasks. Tasks without submissions will simply be scored as zero. See the [**Challenge**](/challenge/) page for evaluation details.
 
 **Do I need to submit my model?**
 No. In the development phase, you only need to submit prediction result files to receive scores. In the test phase, invited teams will submit both results and code. The organizers will verify that the code can reproduce the submitted results within the allowed resources (one A100 GPU, 24 hours).
