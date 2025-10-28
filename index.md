@@ -5,7 +5,7 @@ title: Anti-BAD Challenge
 
 Welcome to the **Anti-Backdoor (Anti-BAD) Challenge**, an IEEE SaTML 2026 competition dedicated to advancing the trustworthiness of **post-trained large language models (LLMs)**.
 
-LLMs have become the rising stars of our time, powering a wide range of applications. As fine-tuning and deploying large models from scratch become increasingly costly, many practitioners now rely on post-trained models shared by others. This convenience, however, raises a critical question: **can we trust these models to behave safely?**
+LLMs have become the rising stars of our time, powering a wide range of applications. As training large models from scratch become increasingly costly, many practitioners now rely on post-trained models shared by others. This convenience, however, raises a critical question: **can we trust these models to behave safely?**
 
 One of the most serious risks is the **backdoor attack**, where a model behaves normally on clean inputs but produces malicious outputs when a hidden trigger appears. The Anti-BAD Challenge invites participants to design **effective and practical defense methods** that can mitigate such hidden behaviors **without access to the training history or backdoor knowledge**, while maintaining strong task performance.
 
