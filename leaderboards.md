@@ -16,6 +16,6 @@ You can view real-time rankings and detailed scores directly on [**Codabench**](
 
 - **Development phase:** opens Nov 7, 2025
 - **Test phase:** opens February 1, 2026
-- **Final rankings:** February 8, 2026
+- **Winner announcement:** February 8, 2026 onward
 
 For the full timeline, visit the [**Important Dates**](/timeline/) page. We will update this page with competition highlights and progress summaries as the challenge advances. Stay tuned!

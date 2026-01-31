@@ -37,8 +37,8 @@ permalink: /timeline/
             <td>Feb 7, 2026</td>
         </tr>
         <tr>
-            <td>Final evaluation and ranking announcement</td>
-            <td>Feb 8, 2026</td>
+            <td>Submission evaluation and winner announcement</td>
+            <td>Feb 8, 2026 onward</td>
         </tr>
     </tbody>
 </table>
@@ -59,10 +59,10 @@ This phase is designed for experimentation, iterative improvement, and preparati
 
 ---
 
-## Test Phase  
+## Test Phase
 **February 1 – 7, 2026**
 
-The test phase invites **top-performing teams** from the development phase. Participants will:
+All teams who participated in the development phase are eligible to participate in the test phase. **New registrations will be closed once the test phase begins.** Participants will:
 
 * Receive unseen test data.  
 * Submit both **results and executable code** for verification.  

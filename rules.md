@@ -53,7 +53,7 @@ Submissions are evaluated on the Codabench server. The total time includes both 
 Yes. You may submit to any subset of tasks. Tasks without submissions will simply be scored as zero. See the [**Challenge**](/challenge/) page for evaluation details.
 
 **Do I need to submit my model?**
-No. In the development phase, you only need to submit prediction result files to receive scores. In the test phase, invited teams will submit both results and code. The organizers will verify that the code can reproduce the submitted results within the allowed resources (one A100 GPU, 24 hours).
+No. In the development phase, you only need to submit prediction result files to receive scores. In the test phase, teams who participated in the development phase may submit both results and code. The organizers will verify that the code can reproduce the submitted results within the allowed resources (one A100 GPU, 24 hours).
 
 **Will my submitted code be shared publicly?**
 No. All submitted code will remain private and will be used only for verification.

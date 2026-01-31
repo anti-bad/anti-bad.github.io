@@ -40,11 +40,11 @@ For full task descriptions, evaluation details, and submission guidelines, visit
 
 ## Important Dates
 
-- **Competition registration opens:** October 21, 2025  
-- **Development phase starts:** November 7, 2025  
-- **Test phase starts:** February 1, 2026  
-- **Test phase ends:** February 7, 2026  
-- **Final evaluation and ranking announcement:** February 8, 2026  
+- **Competition registration opens:** October 21, 2025
+- **Development phase starts:** November 7, 2025
+- **Test phase starts:** February 1, 2026
+- **Test phase ends:** February 7, 2026
+- **Submission evaluation and winner announcement:** February 8, 2026 onward  
 
 ---
 
