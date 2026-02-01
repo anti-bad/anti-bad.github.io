@@ -12,7 +12,8 @@ One of the most serious risks is the **backdoor attack**, where a model behaves 
 ---
 
 ## News
-
+- **February 1, 2026**: Test phase begins! Resources now available via the [starter kit](https://github.com/anti-bad/anti-bad-challenge).
+- **January 31, 2026**: Development phase concludes. Thank you to all participants for your enthusiastic participation!
 - **November 7, 2025**: Development phase begins on [**Codabench**](https://www.codabench.org/competitions/11188/). Resources are now available—access them following the [starter kit](https://github.com/anti-bad/anti-bad-challenge) instructions.
 - **October 21, 2025**: Competition opens for registration on [**Codabench**](https://www.codabench.org/competitions/11188/).
 - **August 31, 2025**: Anti-BAD Challenge accepted as part of IEEE SaTML 2026.  
