@@ -53,8 +53,8 @@ Your goal is to defend the models, generate predictions, and submit your results
 
 **Submission limits:**
 
-* **Development phase:** up to **3 submissions per day**, **270 total**.  
-* **Test phase:** up to **2 submissions per day**, **14 total**.  
+* **Development phase:** up to **3 submissions per day**, **270 total**.
+* **Test phase:** up to **2 submissions per day**, ~~**14 total**~~ **16 total** (2 additional quotas granted due to server issues).  
 
 During the **test phase**, teams who participated in the development phase may submit both prediction results and executable code for reproducibility verification.  
 The code must reproduce the submitted results within **24 hours on a single NVIDIA A100 80GB GPU**.  

@@ -6,7 +6,7 @@ permalink: /timeline/
 
 ## Timeline
 
-<p class="timeline-intro">Keep track of the key milestones for your participation in the Anti-BAD Challenge. All deadlines are <strong>11:59 PM AoE (Anywhere on Earth)</strong>.</p>
+<p class="timeline-intro">Keep track of the key milestones for your participation in the Anti-BAD Challenge. All deadlines are <strong>11:59 PM UTC</strong>.</p>
 
 <table class="timeline-table">
     <thead>
@@ -34,11 +34,11 @@ permalink: /timeline/
         </tr>
         <tr>
             <td>Test phase ends</td>
-            <td>Feb 7, 2026</td>
+            <td>~~Feb 7, 2026~~ <strong>Feb 9, 2026</strong> (Extended)</td>
         </tr>
         <tr>
             <td>Submission evaluation and winner announcement</td>
-            <td>Feb 8, 2026 onward</td>
+            <td>~~Feb 8, 2026~~ <strong>Feb 10, 2026</strong> onward (Extended)</td>
         </tr>
     </tbody>
 </table>
@@ -60,7 +60,7 @@ This phase is designed for experimentation, iterative improvement, and preparati
 ---
 
 ## Test Phase
-**February 1 – 7, 2026**
+**February 1 – 9, 2026** (Extended due to Codabench server issues)
 
 All teams who participated in the development phase are eligible to participate in the test phase. **New registrations will be closed once the test phase begins.** Participants will:
 
