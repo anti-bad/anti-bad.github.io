@@ -34,11 +34,11 @@ permalink: /timeline/
         </tr>
         <tr>
             <td>Test phase ends</td>
-            <td>~~Feb 7, 2026~~ <strong>Feb 9, 2026</strong> (Extended)</td>
+            <td><del>Feb 7, 2026</del> <strong>Feb 9, 2026</strong> (Extended)</td>
         </tr>
         <tr>
             <td>Submission evaluation and winner announcement</td>
-            <td>~~Feb 8, 2026~~ <strong>Feb 10, 2026</strong> onward (Extended)</td>
+            <td><del>Feb 8, 2026</del> <strong>Feb 10, 2026</strong> onward (Extended)</td>
         </tr>
     </tbody>
 </table>
