@@ -12,7 +12,7 @@ One of the most serious risks is the **backdoor attack**, where a model behaves 
 ---
 
 ## News
-- **February 8, 2026**: Due to Codabench platform server issues over the weekend, the test phase is extended by 48 hours. See [timeline](/timeline/) for updated deadlines and submission quotas.
+- **February 8, 2026**: The test phase is extended by 48 hours due to Codabench platform issues. See [timeline](/timeline/) for details.
 - **February 1, 2026**: Test phase begins! Resources now available via the [starter kit](https://github.com/anti-bad/anti-bad-challenge).
 - **January 31, 2026**: Development phase concludes. Thank you to all participants for your enthusiastic participation!
 - **November 7, 2025**: Development phase begins on [**Codabench**](https://www.codabench.org/competitions/11188/). Resources are now available—access them following the [starter kit](https://github.com/anti-bad/anti-bad-challenge) instructions.
