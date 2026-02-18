@@ -469,6 +469,103 @@ body {
     font-weight: 400 !important;
 }
 
+/* ===== LEADERBOARD TABLE ===== */
+.leaderboard-wrapper {
+    overflow: hidden;
+    margin: 2rem auto;
+    border-radius: 12px;
+    border: 1px solid #e5e7eb;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+@media (max-width: 900px) {
+    .leaderboard-wrapper {
+        overflow-x: auto;
+    }
+}
+
+.leaderboard-table {
+    display: table !important;
+    width: 100% !important;
+    overflow: visible !important;
+    border-collapse: collapse;
+    background: white;
+}
+
+.leaderboard-table thead tr {
+    background: #1e40af;
+}
+
+.leaderboard-table th {
+    padding: 1rem 1.25rem;
+    text-align: center !important;
+    font-weight: 600 !important;
+    font-size: 0.85rem !important;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    white-space: nowrap;
+    color: white !important;
+    border: none !important;
+    background: transparent !important;
+}
+
+.leaderboard-table td {
+    padding: 0.875rem 1.25rem !important;
+    text-align: center !important;
+    border: none !important;
+    border-bottom: 1px solid #f3f4f6 !important;
+    font-size: 0.975rem !important;
+    font-family: 'JetBrains Mono', monospace !important;
+    color: #374151 !important;
+    white-space: nowrap;
+    background: transparent !important;
+}
+
+.leaderboard-table td:nth-child(1) {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 1.25rem !important;
+}
+
+.leaderboard-table td:nth-child(2) {
+    text-align: left !important;
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 500 !important;
+    color: #1f2937 !important;
+}
+
+.leaderboard-table td:nth-child(3) {
+    font-weight: 700 !important;
+    color: #1e40af !important;
+}
+
+.leaderboard-table tbody tr:hover td {
+    background: rgba(59, 130, 246, 0.04) !important;
+}
+
+/* Medal rows */
+.rank-gold td { background: rgba(255, 215, 0, 0.12) !important; }
+.rank-gold td:nth-child(3) { color: #92400e !important; }
+.rank-gold:hover td { background: rgba(255, 215, 0, 0.2) !important; }
+
+.rank-silver td { background: rgba(192, 192, 192, 0.14) !important; }
+.rank-silver:hover td { background: rgba(192, 192, 192, 0.22) !important; }
+
+.rank-bronze td { background: rgba(205, 127, 50, 0.1) !important; }
+.rank-bronze:hover td { background: rgba(205, 127, 50, 0.18) !important; }
+
+/* Reference rows */
+.reference-row td {
+    color: #9ca3af !important;
+    font-style: italic;
+    font-size: 0.9rem !important;
+    background: #f9fafb !important;
+    border-top: 1px dashed #e5e7eb !important;
+}
+
+.reference-row:hover td {
+    background: #f3f4f6 !important;
+}
+
 /* ===== RESPONSIVE DESIGN ===== */
 @media (max-width: 1024px) {
     .hero-container {

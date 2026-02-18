@@ -60,7 +60,7 @@ This phase is designed for experimentation, iterative improvement, and preparati
 ---
 
 ## Test Phase
-**February 1 – 9, 2026** (Extended due to Codabench server issues)
+**February 1 – 9, 2026** (Extended due to Codabench platform issues)
 
 All teams who participated in the development phase are eligible to participate in the test phase. **New registrations will be closed once the test phase begins.** Participants will:
 
